@@ -1,0 +1,15 @@
+
+
+# Local development, generated files and credentials
+.DS_Store
+node_modules/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*.py[cod]
+*.class
+.env
+.env.*
+!.env.example
